@@ -3,7 +3,7 @@ name = "SigmaOS-arch-reflections-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-reflections-kernel component"
+description = "SigmaOS SigmaOS-arch-reflections-kernel component"
 upstream = []
 
 [contract]
